@@ -1,0 +1,16 @@
+import * as __wonderlandengine_components from '@wonderlandengine/components';
+_registerEditor(__wonderlandengine_components);
+import * as __wonderlandengine_spatial_audio from '@wonderlandengine/spatial-audio';
+_registerEditor(__wonderlandengine_spatial_audio);
+import * as _C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_DemogorgonAdelanteAtras_js from 'C:/Users/Alumno/Documents/WonderlandEngine/scary-room/js/DemogorgonAdelanteAtras.js';
+_registerEditor(_C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_DemogorgonAdelanteAtras_js);
+import * as _C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_MovimientoLuz_js from 'C:/Users/Alumno/Documents/WonderlandEngine/scary-room/js/MovimientoLuz.js';
+_registerEditor(_C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_MovimientoLuz_js);
+import * as _C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_Teletransporte_js from 'C:/Users/Alumno/Documents/WonderlandEngine/scary-room/js/Teletransporte.js';
+_registerEditor(_C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_Teletransporte_js);
+import * as _C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_button_js from 'C:/Users/Alumno/Documents/WonderlandEngine/scary-room/js/button.js';
+_registerEditor(_C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_button_js);
+import * as _C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_lucesIntensidad_js from 'C:/Users/Alumno/Documents/WonderlandEngine/scary-room/js/lucesIntensidad.js';
+_registerEditor(_C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_lucesIntensidad_js);
+import * as _C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_rotacionObjetoMiedo_js from 'C:/Users/Alumno/Documents/WonderlandEngine/scary-room/js/rotacionObjetoMiedo.js';
+_registerEditor(_C__Users_Alumno_Documents_WonderlandEngine_scary_room_js_rotacionObjetoMiedo_js);
